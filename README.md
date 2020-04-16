@@ -13,7 +13,7 @@ A repo for organising talk proposals and discussing talks with speakers
 ## Some loose talk guidelines
 - we only host live talks with speakers in the house (no video link ups)
 - We prefer hands on demos and live code-in-practice or a developer story to tell over org charts, process diagrams, product demos or corporate promo material.
-- this is the London *Node.js* User group - we are a broad group of developers and touch many technlogies in our day to day lives - but try and keep the link to Node and JavaScript central to your talk
+- this is the  *Women*  CAN Code Community - please try and keep the link to Women or general skills to improve women in the workplace
 
 ## First time speakers
 - Our meetup is inclusive and friendly. If you need some speaking mentorship - we're here to help. Our organizers can provide a hand in multiple ways: Review your talk, provide tips & advice regarding public speaking, help with slides and general presentation.
@@ -42,7 +42,7 @@ If you are looking for feedback on your talk or have additional question, reply 
 - Check the milestone date for confirmation of the event date.
 
 ## Code of conduct:
-LNUG has a [code of conduct](CODE_OF_CONDUCT.md) that speakers as well as attendees are expected to observe - please be sure to read it and comply with it in your participation with LNUG
+Women CAN code has a [code of conduct](CODE_OF_CONDUCT.md) that speakers as well as attendees are expected to observe - please be sure to read it and comply with it in your participation with WCC
 
 ## After the event
 Please tweet a url to your slides and put the link in your proposal as a comment.
