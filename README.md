@@ -42,7 +42,7 @@ If you are looking for feedback on your talk or have additional question, reply 
 - Check the milestone date for confirmation of the event date.
 
 ## Code of conduct:
-LNUG has a [code of conduct](CODE_OF_CONDUCT.md) that speakers as well as attendees are expected to observe - please be sure to read it and comply with it in your participation with LNUG
+Women CAN Code has a [code of conduct](CODE_OF_CONDUCT.md) that speakers as well as attendees are expected to observe - please be sure to read it and comply with it in your participation with LNUG
 
 ## After the event
 Please tweet a url to your slides and put the link in your proposal as a comment.
